@@ -7,7 +7,6 @@
         "goconst",
         "gocyclo",
         "golint",
-        "gotype",
         "ineffassign",
         "interfacer",
         "megacheck",
@@ -20,7 +19,8 @@
     "Unused": [
         "lll",
         "dupl",
-        "goimports"
+        "goimports",
+        "gotype"
     ],
     "Exclude": [
          "resources.go"
