@@ -1,6 +1,6 @@
 {
     "Enable": [
-        "aligncheck",
+        "maligned",
         "deadcode",
         "errcheck",
         "gas",
