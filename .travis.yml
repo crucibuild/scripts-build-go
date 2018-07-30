@@ -3,7 +3,7 @@ language: bash
 addons:
   apt:
     sources:
-    - debian-sid
+    - debian-jessie
     packages:
     - shellcheck
 
