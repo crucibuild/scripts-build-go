@@ -3,7 +3,6 @@
         "maligned",
         "deadcode",
         "errcheck",
-        "gas",
         "goconst",
         "gocyclo",
         "golint",
